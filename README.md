@@ -1,5 +1,7 @@
 # Paintings_IA 🤖🖌
 
+I presented this as my final project of IA at the college, wanted to apply what i learned in class to classify images so here we are
+
 ## Painters 👨‍🎨 this model can classify:
 * Picasso
 * Van Gogh

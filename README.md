@@ -12,6 +12,7 @@ Making a IA capable to tell who´s painting it is, giving the url of the image
 
 ## Link to the data
 https://drive.google.com/file/d/1Jig5B6PMEnfBBzr6N45dRrZ-hg-C9XnY/view?usp=share_link
+
 Unzip "data" and upload to the collab the zips of each painter :)
 
 ## Link to the collab

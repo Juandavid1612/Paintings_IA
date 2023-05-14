@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/1XxfPn6bnhpxSk_AnSBpGIWHGTxnuylt2?usp=sh
 * Upload to the collab the zips of each painter :)
 
 ## How did i collect that much images of each painter?
- I used a extension of chrome called "Download all images", that allows you to download every image of the thing you searched on the browser. ( anyway i had to make some distortions to each image like rotate it, zoom it, move it so the model had more variation of images to be trained ) 
+ I used a extension of chrome called "Download all images", that allows you to download every image of the thing you searched on the browser. (anyway i had to make some distortions to each image like rotate it, zoom it, move it so the model had more variation of images to be trained) 
  
  ### Hope you find it interesting see ya :D
  

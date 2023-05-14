@@ -1,6 +1,6 @@
-# Paintings_IA
+# Paintings_IA 🤖🖌
 
-## Painters this model can classify:
+## Painters 👨‍🎨 this model can classify:
 * Picasso
 * Van Gogh
 * Alfred Kubin
@@ -8,8 +8,10 @@
 ## Purpose
 Making a IA capable to tell who´s painting it is, giving the url of the image
 
-## To Use the code need to:
+## Link to the collab
+https://colab.research.google.com/drive/1XxfPn6bnhpxSk_AnSBpGIWHGTxnuylt2?usp=sharing
 
+## To Use the code you need to:
 * Download the .zip files 
 * Upload it to the collab
 
